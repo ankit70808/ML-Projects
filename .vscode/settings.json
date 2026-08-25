@@ -1,9 +1,14 @@
 {
     "cSpell.words": [
         "Ankit",
+        "catboost",
         "HYPEN",
+        "matplotlib",
         "mlproject",
+        "mlprojects",
         "numpy",
-        "seaborn"
+        "scikit",
+        "seaborn",
+        "xgboost"
     ]
 }
